@@ -1,21 +1,45 @@
-## ✨ Features
+# 💇‍♀️ Perfect Hair & Beauty Salon
 
-- 📱 Fully responsive design
-- 💇‍♀️ Women's & Men's salon services
-- 📸 Attractive image gallery
-- 📅 Online appointment booking form
-- 💬 **Automatic WhatsApp appointment notification**
-- 📲 When a customer books an appointment, a **pre-filled WhatsApp message** containing the customer's details is automatically generated and sent to the salon owner's WhatsApp
-- 📝 WhatsApp message includes:
-  - Customer name
-  - Phone number
-  - Email address
-  - Selected services
-  - Preferred date
-  - Preferred time
-  - Customer notes
-- 🎨 Modern and elegant UI
-- 🧭 Responsive navigation bar
-- 💻 Mobile, tablet & desktop friendly
-- ⚡ Smooth animations and interactive elements
-- 📞 Contact and salon information
+A modern and responsive salon website designed for **Perfect Hair & Beauty Salon**, providing customers with an interactive platform to explore salon services, browse categorized gallery content, and book appointments conveniently through WhatsApp. The website provides a personalized experience by allowing users to select between **For Him** and **For Her**, dynamically displaying relevant services and gallery content based on their selection. The appointment system uses JavaScript to collect customer details and automatically generate a structured, pre-filled WhatsApp message containing the appointment information, allowing the request to be sent directly to the appropriate salon staff without requiring a separate backend appointment management system.
+
+## 🌐 Live Demo
+
+🔗 https://perfect-hair-beauty-salon.vercel.app/
+
+## 🔹 Key Features
+
+- 👨 **For Him & 👩 For Her** – Users can choose between **For Him** and **For Her** to get a personalized experience throughout the website.
+- 🖼️ **Filtered Gallery** – Based on the selected category, users can view relevant **men's or women's hairstyles and salon work**.
+- 💇 **Filtered Services** – Services are dynamically displayed according to the selected category, making it easier for customers to find the services they need.
+- 📅 **WhatsApp Appointment System** – Customers can book appointments directly through WhatsApp without requiring a separate backend appointment management system.
+- 📝 **Detailed Appointment Form** – Customers can provide their name, phone number, email, preferred date, preferred time, selected services, and additional notes.
+- 💬 **Pre-filled WhatsApp Messages** – JavaScript collects the appointment information and automatically generates a structured WhatsApp message.
+- 👨‍🦱 **Male Appointment Routing** – Appointments made under **For Him** are directed to the **male lead hairdresser**.
+- 👩‍🦰 **Female Appointment Routing** – Appointments made under **For Her** are directed to the **female lead hairdresser**.
+- ⚡ **Simple & Practical Workflow** – The system makes it easier for both customers and salon staff to manage appointment requests without the complexity of a separate booking dashboard.
+- 📱 **Fully Responsive Design** – Optimized for mobile, tablet, and desktop devices.
+- 🎨 **Modern UI** – Clean, elegant, and user-friendly salon interface.
+- ✨ **Smooth Animations** – Interactive animations and transitions for a better user experience.
+- 📞 **Contact Information** – Easy access to salon contact and business information.
+
+## 🔧 Technologies Used
+
+- **HTML5** – Website structure and content
+- **CSS3** – Custom styling and responsive design
+- **JavaScript** – Dynamic filtering, form handling, appointment processing, and WhatsApp integration
+- **Bootstrap** – Responsive layouts and UI components
+- **Animate.css** – Smooth and engaging animations
+
+## 📂 Project Structure
+
+```text
+Perfect-Hair-Beauty-Salon/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+│   └── ...
+└── README.md
