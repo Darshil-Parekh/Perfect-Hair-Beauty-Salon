@@ -43,3 +43,23 @@ Perfect-Hair-Beauty-Salon/
 ├── images/
 │   └── ...
 └── README.md
+
+🎯 Project Purpose
+This project was developed to create a professional online presence for Perfect Hair & Beauty Salon while providing a simple and practical appointment booking workflow. The project demonstrates frontend development skills including responsive web design, UI/UX, dynamic content filtering, JavaScript DOM manipulation, form handling, WhatsApp integration, Bootstrap components, CSS styling, and animations.
+
+📲 Appointment Workflow
+1. Customer selects For Him or For Her.
+2. Relevant services and gallery content are displayed.
+3. Customer opens the appointment form.
+4. Customer enters their personal and appointment details.
+5. JavaScript collects and validates the entered information.
+6. The system generates a structured, pre-filled WhatsApp message.
+7. Based on the selected category, the appointment is routed to the appropriate male or female lead hairdresser.
+8. The customer sends the appointment request directly through WhatsApp.
+
+👨‍💻 Developer
+Darshil Parekh
+- GitHub: https://github.com/Darshil-Parekh
+- Portfolio: https://darshil-parekh.vercel.app/
+
+⭐ If you like this project, consider giving the repository a star!
